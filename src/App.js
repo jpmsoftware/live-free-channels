@@ -1,26 +1,23 @@
-import './App.css';
-import { Link } from 'react-router-dom';
-import ChannelList from './components/ChannelList';
+import "./App.css";
+import ListHeader from "./components/ListHeader";
+import ChannelList from "./components/ChannelList";
+import data from "./channels.json";
 
 function App() {
   return (
     <div className="App">
       <header>
-        <div className='wrapper'>
-          <div className='logo'>
-            <img src="/img/tv.svg" alt="logo" />
-            <h4>Free Streaming Channels</h4>
+        <nav>
+          <div className="logo">
+            <img src="/img/favicon-white.svg" alt="logo" />
+            <h4>Free Live Channels</h4>
           </div>
-
-          <button className='btn-info'>
-            <Link to="/info">Info</Link>
-          </button>
-        </div>
+        </nav>
       </header>
-
+      
       <main>
-        <h2>Todos los canales</h2>
-        <ChannelList />
+        <ListHeader channels={data}/>
+        <ChannelList channels={data} />
       </main>
     </div>
   );

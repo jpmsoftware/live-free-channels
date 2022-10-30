@@ -4,111 +4,127 @@
     "name": "La Nación +",
     "country": "Argentina",
     "img": "logo-ln+.jpg",
-    "src": "https://www.youtube.com/embed/HYxWurJ3ejE?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/f0b7swYdKho?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 2,
     "name": "C5N",
     "country": "Argentina",
     "img": "logo-c5n.jpg",
-    "src": "https://www.youtube.com/embed/jF3jb9JDBr0?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/1QW-0AccJwU?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 3,
     "name": "Sky News",
     "country": "United Kingdom",
     "img": "logo-skynews.jpg",
-    "src": "https://www.youtube.com/embed/9Auq9mYxFEE?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/9Auq9mYxFEE?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 4,
     "name": "RT",
     "country": "Rusia",
     "img": "logo-rt.jpg",
-    "src": "https://rumble.com/embed/vtp5hp/?pub=4"
+    "src": "https://rumble.com/embed/vtp5hp/?pub=4&autoplay=2",
+    "rating": 0
   },
   {
     "id": 5,
     "name": "DW",
     "country": "Germany",
     "img": "logo-dw.jpg",
-    "src": "https://www.youtube.com/embed/RTjbYKBB828?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/RTjbYKBB828?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 6,
     "name": "France 24",
     "country": "France",
     "img": "logo-france24.jpg",
-    "src": "https://www.youtube.com/embed/XDJPzMznAjU?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/XDJPzMznAjU?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 7,
     "name": "TN",
     "country": "Argentina",
     "img": "logo-tn.jpg",
-    "src": "https://www.youtube.com/embed/wHn1_QVoXGM?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/wHn1_QVoXGM?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 8,
     "name": "CGTN",
     "country": "China",
     "img": "logo-cgtn.jpg",
-    "src": "https://www.youtube.com/embed/FGabkYr-Sfs?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/FGabkYr-Sfs?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 9,
     "name": "América",
     "country": "Argentina",
     "img": "logo-america.jpg",
-    "src": "https://www.youtube.com/embed/zcWXboTnous?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/zcWXboTnous?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 10,
     "name": "Crónica",
     "country": "Argentina",
     "img": "logo-cronica.jpg",
-    "src": "https://www.youtube.com/embed/InSydaLSSlw?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/InSydaLSSlw?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 11,
     "name": "Televisión Pública",
     "country": "Argentina",
     "img": "logo-tvp.jpg",
-    "src": "https://www.youtube.com/embed/jgzDutVn700?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/HuU1L-zfyEg?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 12,
     "name": "Telesur",
     "country": "Latin America",
     "img": "logo-telesur.jpg",
-    "src": "https://www.youtube.com/embed/dSQFlVM1SgY?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/G7rw_i8wJe0?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 13,
     "name": "Euronews",
     "country": "Europe",
     "img": "logo-euronews.jpg",
-    "src": "https://www.youtube.com/embed/sPgqEHsONK8?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/ntmPIzlkcJk?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 14,
     "name": "Al Jazeera",
     "country": "Catar",
     "img": "logo-aljazeera.jpg",
-    "src": "https://www.youtube.com/embed/F-POY4Q0QSI?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/F-POY4Q0QSI?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 15,
-    "name": "24 horas",
+    "name": "T13",
     "country": "Chile",
-    "img": "logo-24horas.jpg",
-    "src": "https://www.youtube.com/embed/sInjOSr935c?autoplay=1&controls=0"
+    "img": "T13.jpg",
+    "src": "https://www.youtube.com/embed/Ove87nZ_1D4?autoplay=1&controls=1",
+    "rating": 0
   },
   {
     "id": 16,
     "name": "Record News",
     "country": "Brazil",
     "img": "logo-record.jpg",
-    "src": "https://www.youtube.com/embed/OxMAupCG1SI?autoplay=1&controls=0"
+    "src": "https://www.youtube.com/embed/spKH8Ehi0Nk?autoplay=1&controls=1",
+    "rating": 0
   }
 ]

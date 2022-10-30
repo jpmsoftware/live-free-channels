@@ -1,12 +1,11 @@
-import React from 'react';
-import Channel from './Channel';
-import data from '../channels.json';
+import React from "react";
+import Channel from "./Channel";
 
-function ChannelList() {
+function ChannelList({ channels }) {
   return (
-    <div className='channel-list'>
+    <div className="channels-list">
       {
-        data.map((channel) => (
+        channels.map((channel) => (
           <Channel key={channel.id} channel={channel} />
         ))
       }
